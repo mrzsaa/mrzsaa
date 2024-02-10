@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m Interested as Frontend Developer<br>- 📚 I'm currently learning Flutter and Firebase<br>- ⚡ In my free time I working on some individual project</p>
+<p align="left">- 🔭 I’m Interested as Frontend Developer<br>- 📚 I'm currently learning Flutter and React<br>- ⚡ In my free time I working on some individual project</p>
 
 ###
 
